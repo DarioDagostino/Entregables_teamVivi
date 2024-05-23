@@ -1,0 +1,29 @@
+
+	//pedimos al usuario que ingrese un numero
+	//	import as * readline from 'readline.sync'
+
+	//let numero: number = rlsInt(prompt ("ingresa un numero :"));
+
+	// verificamos si el numero es 0
+
+	// 	if numero (=== 0) {
+
+	//	console.log ("el numero es 0".);
+
+	//   	} else {
+
+	//   verificamos si el numero es par o impar
+
+	//     if (numero % 2 es === 0) {
+
+	//	console.log ("el numero ${numero} es par.");
+
+	//   	} else {
+
+	//	console.log el numero el ${numero} es impar.);
+	//   	}
+
+
+
+
+/
